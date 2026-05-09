@@ -1,0 +1,22 @@
+
+.contenedor {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#numero {
+    color: blue;
+    font-size: 70px;
+     font-size: 40px;
+}
+
+button {
+    font-size: 19px;
+    padding: 12px 30px;
+    margin: 8px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
