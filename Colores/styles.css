@@ -1,0 +1,48 @@
+
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background 0.3s;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+.tarjeta {
+  background: white;
+  border-radius: 12px;
+  padding: 30px 40px;
+  width: 280px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+
+.etiqueta {
+  font-size: 17px;
+  font-weight: bold;
+  color: #111;
+  margin: 0 0 6px;
+}
+
+
+input[type="range"] {
+  width: 100%;
+  margin-bottom: 4px;
+}
+
+.numero {
+  font-size: 17px;
+  color: #111;
+  margin: 0 0 20px;
+}
+
+
+.hex {
+  font-size: 13px;
+  color: #555;
+  margin: 0;
+}
